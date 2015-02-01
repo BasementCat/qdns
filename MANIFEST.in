@@ -1,0 +1,4 @@
+include *.md
+include .gitignore
+graft qdns
+global-exclude *.pyc
